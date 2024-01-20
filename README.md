@@ -11,7 +11,7 @@ This is a simple implementation of the classic Asteroids game using C++ and SFML
 
 ## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](images/screenshots/gameplay.png)
 
 ## Prerequisites
 
