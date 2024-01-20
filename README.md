@@ -22,3 +22,9 @@ Make sure you have SFML installed on your system. You can download SFML [here](h
 ```bash
 g++ -std=c++11 -o asteroids main.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ./asteroids
+```
+
+## Acknowledgments
+
+- SFML - Simple and Fast Multimedia Library
+- Original concept of the Asteroids game
